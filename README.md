@@ -10,41 +10,33 @@
 
 ## Web Developer
 
-Hello! I'm Federico Benítez, a passionate web developer with experience in designing and implementing innovative solutions. Currently, I'm working at AYTE, a company dedicated to information technology solutions.
+Hello! I'm Federico Benítez, a passionate web developer with expertise in a wide range of technologies and frameworks.
 
 ### Work Experience
 
 - **AYTE (Present)**
+
   - As part of the development team, I have participated in two notable projects:
-    - *Project 1*: Start date: July 15, 2022 - End date: April 11, 2024.
-    - *Project 2*: Started on April 1 and is currently in development.
+    - _Project 1_: Start date: July 15, 2022 - End date: April 11, 2024.
+    - _Project 2_: Started on April 1 and is currently in development.
 
 - **CEOTIC (01/02/2021 - 01/07/2021)**
+
   - I worked on the **Ganko** project, focused on cattle management and related resource management.
 
 - **Palermo SA (01/02/2020 - 01/01/2021)**
   - At Palermo SA, I worked in various areas, including customer request handling, account management, reconciliations, and database management. Additionally, I designed advertising materials such as event flyers and user award presentations.
 
-### Technical Experience
+### Skills :
 
-#### Frontend:
-- JavaScript
-- HTML
-- CSS
-- React
-- Next.js
-- Sass
-
-#### Backend:
-- Node.js
-- Express
-- PostgreSQL
-- MongoDB
-
-#### Third-Party Services:
-- AWS (DynamoDB, S3)
-- Cloudinary
-- Docker
+| Frontend   | Backend    | Third-Party Services |
+| ---------- | ---------- | -------------------- |
+| JavaScript | Node.js    | AWS (DynamoDB, S3)   |
+| HTML       | Express    | Cloudinary           |
+| CSS        | PostgreSQL | Docker               |
+| React      | MongoDB    |
+| Next.js    |
+| Sass       |
 
 ### Notable Projects
 
