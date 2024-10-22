@@ -31,7 +31,7 @@ Hello! I'm Federico Benítez, a passionate web developer with expertise in a wid
 
 | Frontend   | Backend    | Third-Party Services |
 | ---------- | ---------- | -------------------- |
-| JavaScript | Node.js    | AWS (DynamoDB, S3)   |
+| JavaScript | Node.js    | AWS                  |
 | HTML       | Express    | Cloudinary           |
 | CSS        | PostgreSQL | Docker               |
 | React      | MongoDB    |
